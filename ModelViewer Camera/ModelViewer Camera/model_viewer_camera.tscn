@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://b8uhhlpadde6n"]
-
-[ext_resource type="Script" path="res://ModelViewer Camera/model_viewer_camera.gd" id="1_5ayv5"]
-
-[node name="ModelViewer Camera" type="Node3D"]
-script = ExtResource("1_5ayv5")
-
-[node name="Camera3D" type="Camera3D" parent="."]
