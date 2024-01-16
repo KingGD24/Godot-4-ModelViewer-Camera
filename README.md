@@ -1,2 +1,2 @@
 # Godot-4-ModelViewer-Camera
-You can move around a model with this ModelViewer Camera in Godot 4
+This ModelViewer Camera enables movement around your model using drag, mouse, or keyboard inputs, with zoom support
